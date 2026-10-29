@@ -25,7 +25,24 @@ countries/
   usa/    index.html + data.js（中文）+ data.en.js（英文）   ★ 美国
   korea/ japan/ singapore/ canada/ australia/ uk/ france/ germany/ switzerland/   （规划中）
   _template/               新增国家时复制这个文件夹
+  */README.md, README.en.md, plants.geojson   ← 自动生成的 GitHub 仓库内查看版（见下）
+scripts/
+  build_github_views.py    生成上面三个文件
+.github/workflows/
+  build-github-views.yml   数据变动后自动运行上面的脚本
 ```
+
+## 两种查看方式
+
+| | 交互网站（GitHub Pages） | 仓库内直接查看 |
+|---|---|---|
+| 地址 | https://haoran-f-frank.github.io/ai-five-layer-cake/ | [countries/china](countries/china) 等文件夹 |
+| 内容 | 完整网页：地图、可展开分类、中英切换 | 自动生成的 `README.md`（中文）/ `README.en.md`（英文）表格 + Reference，以及 GitHub 可交互的电厂地图 `plants.geojson` |
+
+国家文件夹里的 `README.md`、`README.en.md`、`plants.geojson` 是由 `data.js`、`data.en.js` 和 `refs.js` **自动生成**的，不要手动改：
+- 在 GitHub 网页上改数据并 Commit 后，GitHub Actions（`.github/workflows/build-github-views.yml`）会在约 1 分钟内自动重新生成并提交。
+- 在本地改数据的话，也可以自己运行：`python scripts/build_github_views.py`。
+- 第一次使用前要确认：仓库 **Settings → Actions → General → Workflow permissions** 选 **Read and write permissions**，否则自动提交会失败。
 
 ## 双语模式
 
@@ -73,7 +90,7 @@ python -m http.server 8000
 
 1. 打开 https://github.com/new ，Repository name 填 `ai-five-layer-cake`，选 **Public**，点 **Create repository**。
 2. 在新仓库页面点 **uploading an existing file**，把本项目的所有文件和文件夹拖进去 → **Commit changes**。
-   （`.nojekyll` 是隐藏文件，没上传成功也不影响使用。）
+   （`.nojekyll` 和 `.github` 以点开头；拖拽后请确认 `.github/workflows/build-github-views.yml` 已出现在仓库里。没有的话：仓库页面 **Add file → Create new file**，文件名填 `.github/workflows/build-github-views.yml`，把本地同名文件内容粘贴进去再 Commit。`.nojekyll` 缺失不影响使用。）
 3. 打开 https://github.com/Haoran-F-Frank/ai-five-layer-cake/settings/pages ：Source 选 **Deploy from a branch**，Branch 选 `main`、文件夹 `/ (root)` → **Save**。
 4. 约 1 分钟后访问：https://haoran-f-frank.github.io/ai-five-layer-cake/
 
@@ -95,10 +112,11 @@ git push -u origin main
 1. 编辑对应国家的 `countries/<国家>/data.js`，并同步修改 `data.en.js`（GitHub 网页上点文件 → 铅笔图标即可在线编辑）。
 2. 新来源先加到 `assets/refs.js`（中文来源再在 `REFS_EN` 里加英文标题），然后在数据里引用。
 3. 修改两个数据文件的 `updated` 和 `assets/countries.js` 的 `SITE_UPDATED` 日期。
-4. Commit 后 GitHub Pages 会在 1 分钟左右自动更新。
+4. Commit 后 GitHub Pages 网站会在 1 分钟左右自动更新，国家文件夹里的 README / 地图也会由 GitHub Actions 自动重新生成。
 
 ## 新增国家
 
 1. 复制 `countries/_template` 为 `countries/<新国家>`（列表中的 10 个国家已建好文件夹）。
 2. 参考 `countries/china/data.js` 和 `data.en.js` 填写中英文数据，把两个文件里的 `status` 都改为 `"active"`。
 3. 在 `assets/countries.js` 中把该国 `status` 改为 `"active"`。
+4. 生成脚本会自动处理新国家的 `README.md` / `README.en.md` / `plants.geojson`。

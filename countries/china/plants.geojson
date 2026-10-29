@@ -1,0 +1,480 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.33,
+     40.2
+    ]
+   },
+   "properties": {
+    "名称 Name": "大唐托克托发电厂 / Datang Tuoketuo Power Plant",
+    "类型 Type": "煤炭发电厂 / Coal power plants",
+    "装机 Capacity": "6,720 MW",
+    "企业 Company": "China Datang (central SOE)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.3,
+     28.13
+    ]
+   },
+   "properties": {
+    "名称 Name": "华能玉环电厂 / Huaneng Yuhuan Power Plant",
+    "类型 Type": "煤炭发电厂 / Coal power plants",
+    "装机 Capacity": "4,000 MW（4×1000 MW 超超临界）",
+    "企业 Company": "China Huaneng (central SOE)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.88,
+     21.86
+    ]
+   },
+   "properties": {
+    "名称 Name": "国能台山电厂 / CHN Energy Taishan Power Plant",
+    "类型 Type": "煤炭发电厂 / Coal power plants",
+    "装机 Capacity": "≈ 5,000 MW",
+    "企业 Company": "China Energy Investment Corp. (central SOE)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.25,
+     36.58
+    ]
+   },
+   "properties": {
+    "名称 Name": "信发集团自备电厂群 / Xinfa Group captive plants",
+    "类型 Type": "煤炭发电厂 / Coal power plants",
+    "装机 Capacity": "数千 MW（口径不一，待核实）",
+    "企业 Company": "Xinfa Group (private)",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.74,
+     36.86
+    ]
+   },
+   "properties": {
+    "名称 Name": "魏桥 / 中国宏桥自备电厂群 / Weiqiao / China Hongqiao captive plants",
+    "类型 Type": "煤炭发电厂 / Coal power plants",
+    "装机 Capacity": "数千 MW（口径不一，待核实）",
+    "企业 Company": "Weiqiao Pioneering Group / China Hongqiao (private, HKEX 1378)",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.53,
+     39.89
+    ]
+   },
+   "properties": {
+    "名称 Name": "华能北京热电厂（燃气热电） / Huaneng Beijing Thermal Power Plant (gas CHP)",
+    "类型 Type": "天然气发电厂 / Natural gas power plants",
+    "装机 Capacity": "待核实",
+    "企业 Company": "China Huaneng / Beijing Energy Group",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.003,
+     30.823
+    ]
+   },
+   "properties": {
+    "名称 Name": "三峡水电站 / Three Gorges Dam",
+    "类型 Type": "堤坝及内部发电厂 / Dams and their power plants",
+    "装机 Capacity": "22,500 MW",
+    "企业 Company": "China Three Gorges Corp. (central SOE)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.905,
+     27.215
+    ]
+   },
+   "properties": {
+    "名称 Name": "白鹤滩水电站 / Baihetan",
+    "类型 Type": "堤坝及内部发电厂 / Dams and their power plants",
+    "装机 Capacity": "16,000 MW",
+    "企业 Company": "China Three Gorges Corp.",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.65,
+     28.26
+    ]
+   },
+   "properties": {
+    "名称 Name": "溪洛渡水电站 / Xiluodu",
+    "类型 Type": "堤坝及内部发电厂 / Dams and their power plants",
+    "装机 Capacity": "≈ 13,860 MW",
+    "企业 Company": "China Three Gorges Corp.",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.63,
+     26.33
+    ]
+   },
+   "properties": {
+    "名称 Name": "乌东德水电站 / Wudongde",
+    "类型 Type": "堤坝及内部发电厂 / Dams and their power plants",
+    "装机 Capacity": "10,200 MW",
+    "企业 Company": "China Three Gorges Corp.",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.4,
+     28.64
+    ]
+   },
+   "properties": {
+    "名称 Name": "向家坝水电站 / Xiangjiaba",
+    "类型 Type": "堤坝及内部发电厂 / Dams and their power plants",
+    "装机 Capacity": "≈ 6,400 MW",
+    "企业 Company": "China Three Gorges Corp.",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.43,
+     26.8
+    ]
+   },
+   "properties": {
+    "名称 Name": "金安桥水电站 / Jin'anqiao",
+    "类型 Type": "堤坝及内部发电厂 / Dams and their power plants",
+    "装机 Capacity": "≈ 2,400 MW",
+    "企业 Company": "Hanergy Group (private; historical controlling owner — current ownership to be verified)",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.26,
+     21.71
+    ]
+   },
+   "properties": {
+    "名称 Name": "阳江核电站 / Yangjiang",
+    "类型 Type": "核裂变发电厂 / Nuclear fission plants",
+    "装机 Capacity": "6 台 × ≈1,086 MW ≈ 6,500 MW",
+    "企业 Company": "China General Nuclear (CGN)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     112.98,
+     21.92
+    ]
+   },
+   "properties": {
+    "名称 Name": "台山核电站 / Taishan",
+    "类型 Type": "核裂变发电厂 / Nuclear fission plants",
+    "装机 Capacity": "2 × 1,750 MW（EPR）",
+    "企业 Company": "CGN (France's EDF holds 30%)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.54,
+     22.6
+    ]
+   },
+   "properties": {
+    "名称 Name": "大亚湾核电站 / Daya Bay",
+    "类型 Type": "核裂变发电厂 / Nuclear fission plants",
+    "装机 Capacity": "2 × ≈984 MW",
+    "企业 Company": "CGN (Hong Kong's CLP holds 25%)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.46,
+     34.69
+    ]
+   },
+   "properties": {
+    "名称 Name": "田湾核电站 / Tianwan",
+    "类型 Type": "核裂变发电厂 / Nuclear fission plants",
+    "装机 Capacity": "6 台在运 ≈ 6,600 MW，另有机组在建",
+    "企业 Company": "China National Nuclear Corp. (CNNC)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.45,
+     25.44
+    ]
+   },
+   "properties": {
+    "名称 Name": "福清核电站 / Fuqing",
+    "类型 Type": "核裂变发电厂 / Nuclear fission plants",
+    "装机 Capacity": "6 台 ≈ 6,700 MW（含“华龙一号”示范机组）",
+    "企业 Company": "CNNC",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.48,
+     39.8
+    ]
+   },
+   "properties": {
+    "名称 Name": "红沿河核电站 / Hongyanhe",
+    "类型 Type": "核裂变发电厂 / Nuclear fission plants",
+    "装机 Capacity": "6 台 ≈ 6,700 MW",
+    "企业 Company": "CGN / SPIC",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.53,
+     36.97
+    ]
+   },
+   "properties": {
+    "名称 Name": "石岛湾高温气冷堆 / Shidaowan HTR-PM",
+    "类型 Type": "核裂变发电厂 / Nuclear fission plants",
+    "装机 Capacity": "≈ 200 MW",
+    "企业 Company": "China Huaneng",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     97.0,
+     40.3
+    ]
+   },
+   "properties": {
+    "名称 Name": "酒泉风电基地 / Jiuquan Wind Power Base",
+    "类型 Type": "风力发电厂 / Wind farms",
+    "装机 Capacity": "规划千万千瓦级（≈ 20 GW）",
+    "企业 Company": "Several generators (Datang, Huaneng, CHN Energy, SPIC, …)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.4,
+     32.5
+    ]
+   },
+   "properties": {
+    "名称 Name": "江苏如东海上风电群 / Rudong offshore wind cluster",
+    "类型 Type": "风力发电厂 / Wind farms",
+    "装机 Capacity": "数 GW（多项目合计）",
+    "企业 Company": "China Three Gorges, CHN Energy (Longyuan Power) and others",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.6,
+     36.15
+    ]
+   },
+   "properties": {
+    "名称 Name": "青海共和光伏园（塔拉滩） / Gonghe PV Park (Talatan)",
+    "类型 Type": "太阳能发电厂 / Solar power plants",
+    "装机 Capacity": "多 GW 级（多项目合计）",
+    "企业 Company": "SPIC (Huanghe Hydropower) and others",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.48,
+     30.08
+    ]
+   },
+   "properties": {
+    "名称 Name": "羊八井地热电站 / Yangbajain Geothermal Power Station",
+    "类型 Type": "地热发电厂 / Geothermal power plants",
+    "装机 Capacity": "≈ 25 MW",
+    "企业 Company": "Tibet local SOE",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.2,
+     28.35
+    ]
+   },
+   "properties": {
+    "名称 Name": "江厦潮汐试验电站 / Jiangxia Tidal Power Station",
+    "类型 Type": "潮汐能发电厂 / Tidal power plants",
+    "装机 Capacity": "≈ 4 MW",
+    "企业 Company": "CHN Energy (Longyuan Power)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     94.42,
+     40.08
+    ]
+   },
+   "properties": {
+    "名称 Name": "敦煌熔盐塔式光热电站 / Dunhuang molten-salt tower CSP plant",
+    "类型 Type": "其他发电厂（光热等） / Other plants (CSP etc.)",
+    "装机 Capacity": "100 MW",
+    "企业 Company": "Shouhang High-Tech (private, SZSE 002665)",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  }
+ ]
+}

@@ -1,0 +1,518 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.81,
+     33.06
+    ]
+   },
+   "properties": {
+    "名称 Name": "Plant Scherer / Plant Scherer",
+    "类型 Type": "煤炭发电厂 / Coal power plants",
+    "装机 Capacity": "≈ 3,500 MW",
+    "企业 Company": "Georgia Power (Southern Company) and co-owners",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.92,
+     34.13
+    ]
+   },
+   "properties": {
+    "名称 Name": "Plant Bowen / Plant Bowen",
+    "类型 Type": "煤炭发电厂 / Coal power plants",
+    "装机 Capacity": "≈ 3,200 MW",
+    "企业 Company": "Georgia Power (Southern Company)",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.77,
+     38.37
+    ]
+   },
+   "properties": {
+    "名称 Name": "Gibson Generating Station / Gibson Generating Station",
+    "类型 Type": "煤炭发电厂 / Coal power plants",
+    "装机 Capacity": "≈ 3,300 MW",
+    "企业 Company": "Duke Energy and co-owners",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.35,
+     41.89
+    ]
+   },
+   "properties": {
+    "名称 Name": "Monroe Power Plant / Monroe Power Plant",
+    "类型 Type": "煤炭发电厂 / Coal power plants",
+    "装机 Capacity": "≈ 3,100 MW",
+    "企业 Company": "DTE Energy",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.65,
+     36.39
+    ]
+   },
+   "properties": {
+    "名称 Name": "Cumberland Fossil Plant / Cumberland Fossil Plant",
+    "类型 Type": "煤炭发电厂 / Coal power plants",
+    "装机 Capacity": "≈ 2,500 MW",
+    "企业 Company": "Tennessee Valley Authority (federal)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.37,
+     26.7
+    ]
+   },
+   "properties": {
+    "名称 Name": "West County Energy Center / West County Energy Center",
+    "类型 Type": "天然气发电厂 / Natural gas power plants",
+    "装机 Capacity": "≈ 3,700 MW",
+    "企业 Company": "Florida Power & Light (NextEra Energy)",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.1,
+     33.76
+    ]
+   },
+   "properties": {
+    "名称 Name": "Haynes Generating Station / Haynes Generating Station",
+    "类型 Type": "天然气发电厂 / Natural gas power plants",
+    "装机 Capacity": "≈ 1,600 MW",
+    "企业 Company": "Los Angeles Dept. of Water & Power (municipal)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.98,
+     47.957
+    ]
+   },
+   "properties": {
+    "名称 Name": "Grand Coulee Dam / Grand Coulee Dam",
+    "类型 Type": "堤坝及内部发电厂 / Dams and their power plants",
+    "装机 Capacity": "≈ 6,800 MW",
+    "企业 Company": "US Bureau of Reclamation (federal)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.633,
+     47.995
+    ]
+   },
+   "properties": {
+    "名称 Name": "Chief Joseph Dam / Chief Joseph Dam",
+    "类型 Type": "堤坝及内部发电厂 / Dams and their power plants",
+    "装机 Capacity": "≈ 2,600 MW",
+    "企业 Company": "US Army Corps of Engineers (federal)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.04,
+     43.14
+    ]
+   },
+   "properties": {
+    "名称 Name": "Robert Moses Niagara / Robert Moses Niagara",
+    "类型 Type": "堤坝及内部发电厂 / Dams and their power plants",
+    "装机 Capacity": "≈ 2,500 MW",
+    "企业 Company": "New York Power Authority (state)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.737,
+     36.016
+    ]
+   },
+   "properties": {
+    "名称 Name": "Hoover Dam / Hoover Dam",
+    "类型 Type": "堤坝及内部发电厂 / Dams and their power plants",
+    "装机 Capacity": "≈ 2,080 MW",
+    "企业 Company": "US Bureau of Reclamation (federal)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8,
+     38.21
+    ]
+   },
+   "properties": {
+    "名称 Name": "Bath County Pumped Storage / Bath County Pumped Storage",
+    "类型 Type": "堤坝及内部发电厂 / Dams and their power plants",
+    "装机 Capacity": "≈ 3,000 MW（抽蓄）",
+    "企业 Company": "Dominion Energy and co-owners",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.17,
+     39.66
+    ]
+   },
+   "properties": {
+    "名称 Name": "Conowingo Dam / Conowingo Dam",
+    "类型 Type": "堤坝及内部发电厂 / Dams and their power plants",
+    "装机 Capacity": "≈ 570 MW",
+    "企业 Company": "Constellation Energy",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.86,
+     33.39
+    ]
+   },
+   "properties": {
+    "名称 Name": "Palo Verde / Palo Verde",
+    "类型 Type": "核裂变发电厂 / Nuclear fission plants",
+    "装机 Capacity": "≈ 3,900 MW（3 台）",
+    "企业 Company": "Operator: Arizona Public Service (Pinnacle West); co-owners include SRP (public)",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.76,
+     33.14
+    ]
+   },
+   "properties": {
+    "名称 Name": "Vogtle / Vogtle",
+    "类型 Type": "核裂变发电厂 / Nuclear fission plants",
+    "装机 Capacity": "≈ 4,500 MW（4 台，含 2 台 AP1000）",
+    "企业 Company": "Georgia Power (Southern Company) majority; co-owners include MEAG and Oglethorpe (public / co-op)",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.12,
+     34.7
+    ]
+   },
+   "properties": {
+    "名称 Name": "Browns Ferry / Browns Ferry",
+    "类型 Type": "核裂变发电厂 / Nuclear fission plants",
+    "装机 Capacity": "≈ 3,800 MW（3 台）",
+    "企业 Company": "Tennessee Valley Authority (federal)",
+    "所有制 Ownership": "国有/公共 Public",
+    "marker-color": "#2563eb",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.85,
+     35.21
+    ]
+   },
+   "properties": {
+    "名称 Name": "Diablo Canyon / Diablo Canyon",
+    "类型 Type": "核裂变发电厂 / Nuclear fission plants",
+    "装机 Capacity": "≈ 2,250 MW（2 台）",
+    "企业 Company": "PG&E",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.32,
+     35.02
+    ]
+   },
+   "properties": {
+    "名称 Name": "Alta Wind Energy Center / Alta Wind Energy Center",
+    "类型 Type": "风力发电厂 / Wind farms",
+    "装机 Capacity": "≈ 1,550 MW",
+    "企业 Company": "Multiple investors (Terra-Gen and others)",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.54,
+     32.45
+    ]
+   },
+   "properties": {
+    "名称 Name": "Roscoe Wind Farm / Roscoe Wind Farm",
+    "类型 Type": "风力发电厂 / Wind farms",
+    "装机 Capacity": "≈ 780 MW",
+    "企业 Company": "RWE",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.0,
+     32.2
+    ]
+   },
+   "properties": {
+    "名称 Name": "Horse Hollow Wind Energy Center / Horse Hollow Wind Energy Center",
+    "类型 Type": "风力发电厂 / Wind farms",
+    "装机 Capacity": "≈ 735 MW",
+    "企业 Company": "NextEra Energy Resources",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.95,
+     35.0
+    ]
+   },
+   "properties": {
+    "名称 Name": "Edwards & Sanborn / Edwards & Sanborn",
+    "类型 Type": "太阳能发电厂 / Solar power plants",
+    "装机 Capacity": "≈ 875 MW 光伏 + ≈ 3.3 GWh 储能",
+    "企业 Company": "Terra-Gen and others",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.88,
+     36.37
+    ]
+   },
+   "properties": {
+    "名称 Name": "Gemini Solar / Gemini Solar",
+    "类型 Type": "太阳能发电厂 / Solar power plants",
+    "装机 Capacity": "≈ 690 MW + 储能",
+    "企业 Company": "Primergy Solar",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.4,
+     34.83
+    ]
+   },
+   "properties": {
+    "名称 Name": "Solar Star / Solar Star",
+    "类型 Type": "太阳能发电厂 / Solar power plants",
+    "装机 Capacity": "≈ 580 MW",
+    "企业 Company": "BHE Renewables (Berkshire Hathaway Energy)",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.7,
+     26.6
+    ]
+   },
+   "properties": {
+    "名称 Name": "Okeelanta Cogeneration / Okeelanta Cogeneration",
+    "类型 Type": "生物质发电厂 / Biomass power plants",
+    "装机 Capacity": "≈ 140 MW",
+    "企业 Company": "Florida Crystals",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.75,
+     38.79
+    ]
+   },
+   "properties": {
+    "名称 Name": "The Geysers / The Geysers",
+    "类型 Type": "地热发电厂 / Geothermal power plants",
+    "装机 Capacity": "≈ 700+ MW（净）",
+    "企业 Company": "Calpine (most units)",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.62,
+     33.17
+    ]
+   },
+   "properties": {
+    "名称 Name": "Salton Sea 地热电站群 / Salton Sea geothermal plants",
+    "类型 Type": "地热发电厂 / Geothermal power plants",
+    "装机 Capacity": "≈ 340 MW",
+    "企业 Company": "BHE Renewables (CalEnergy)",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.47,
+     35.56
+    ]
+   },
+   "properties": {
+    "名称 Name": "Ivanpah Solar / Ivanpah Solar",
+    "类型 Type": "其他发电厂（光热等） / Other plants (CSP etc.)",
+    "装机 Capacity": "≈ 390 MW（塔式光热）",
+    "企业 Company": "NRG Energy / BrightSource and others",
+    "所有制 Ownership": "私有 Private",
+    "marker-color": "#d97706",
+    "marker-size": "small"
+   }
+  }
+ ]
+}
